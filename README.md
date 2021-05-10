@@ -1,1 +1,1 @@
-# Amazona ECommerce Website
+# FullStack Project - 2S
