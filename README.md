@@ -1,1 +1,1 @@
-# FullStack Project - 2S
+# FullStack Project - 2
